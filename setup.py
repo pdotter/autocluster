@@ -30,8 +30,7 @@ install_requires = [
     'pytz',
     'scikit-learn',
     'scipy',
-    'six',
-    'sklearn'
+    'six'
 ]
 
 if __name__ == '__main__':
