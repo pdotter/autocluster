@@ -11,7 +11,7 @@ Report and presentation slides can be found [here](https://github.com/wywongbd/a
 1. First, install [SMAC](https://automl.github.io/SMAC3/stable/installation.html):
   - ``sudo apt-get install build-essential swig``
   - ``conda install gxx_linux-64 gcc_linux-64 swig``
-  - ``pip install smac==0.8.0``
+  - ``pip install smac==0.8.0`` use 0.9.0 i had to install some dependencies manually: sobol_seq, statsmodels, pyDOE, george, emcee
 2. ``pip install autocluster``
 
 ## How it works?
