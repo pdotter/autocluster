@@ -4,7 +4,7 @@
 Report and presentation slides can be found [here](https://github.com/wywongbd/autocluster/blob/master/reports/autocluster_report.pdf) and [here](https://github.com/wywongbd/autocluster/blob/master/reports/autocluster_ppt.pdf).
 
 ## Prerequisites
-- Python 3.5 or above
+- Python 3.5 or above (last tested with 3.9, problems with 3.11)
 - Linux OS, or [Windows WSL](https://docs.microsoft.com/en-us/windows/wsl/about) is also possible
 
 ## How to get started?
